@@ -1,2 +1,2 @@
 # goit-js-hw-01
-JS_HomewWork#1
+JS_HomeWork#1
